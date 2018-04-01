@@ -1,4 +1,9 @@
-
+---
+title: "Dynamic Programming"
+output:
+  	github_document:
+    	pandoc_args: --webtex
+---
 
 ## Summary
 
