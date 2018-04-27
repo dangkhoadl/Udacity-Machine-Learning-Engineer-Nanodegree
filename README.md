@@ -12,3 +12,5 @@ __Projects__
 
 __Additional Courses__
 - Machine learning for finance
+
+![alt text](./certificate.png "Certificate")
