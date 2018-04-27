@@ -1,0 +1,19 @@
+\BOOKMARK [1][-]{section.1}{Capstone Proposal}{}% 1
+\BOOKMARK [1][-]{section.2}{Domain Background}{}% 2
+\BOOKMARK [1][-]{section.3}{Problem Statement}{}% 3
+\BOOKMARK [1][-]{section.4}{Datasets and Inputs}{}% 4
+\BOOKMARK [1][-]{section.5}{Solution Statement}{}% 5
+\BOOKMARK [2][-]{subsection.5.1}{Regression Approach}{section.5}% 6
+\BOOKMARK [2][-]{subsection.5.2}{ARIMA Approach}{section.5}% 7
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Definition}{subsection.5.2}% 8
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Models parameter}{subsection.5.2}% 9
+\BOOKMARK [3][-]{subsubsection.5.2.3}{Approach}{subsection.5.2}% 10
+\BOOKMARK [1][-]{section.6}{Evaluation Metrics}{}% 11
+\BOOKMARK [1][-]{section.7}{Project Design}{}% 12
+\BOOKMARK [2][-]{subsection.7.1}{Data Exploratory}{section.7}% 13
+\BOOKMARK [2][-]{subsection.7.2}{Data Preprocessing}{section.7}% 14
+\BOOKMARK [2][-]{subsection.7.3}{Model Prediction}{section.7}% 15
+\BOOKMARK [3][-]{subsubsection.7.3.1}{Linear Regression}{subsection.7.3}% 16
+\BOOKMARK [3][-]{subsubsection.7.3.2}{ARIMA}{subsection.7.3}% 17
+\BOOKMARK [2][-]{subsection.7.4}{Model Evaluation}{section.7}% 18
+\BOOKMARK [1][-]{section.8}{Reference}{}% 19

@@ -8,6 +8,7 @@ __Projects__
 4. Customer Segments - Unsupervised Learning Clustering
 5. Build a smart cab - Reinforcement Learning
 6. Dog Breed Classification - Deep Learning
+7. Build a stock price predictor - Capstone
 
 __Additional Courses__
 - Machine learning for finance
